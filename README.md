@@ -13,10 +13,6 @@ Coloque aqui os seus dados
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 
-## Orientações sobre Linguagem MarkDown
+## Página Hello World
 
-Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto em Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
-
-![Brasão PUC Minas](images/brasao_puc.png)
+![Hello World](img/image2.png)
